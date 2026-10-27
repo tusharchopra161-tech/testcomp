@@ -13,6 +13,8 @@ function App() {
       <button onClick={() => { setCount(count + 1) }}>ADD</button>
       <button onClick={() => { setCount(count + 1) }}>subtract</button>
       <h1>the react frontend is here</h1>
+    <h1>the react frontend is here</h1>
+    <p>this is add from the another tushar account</p>
     </>
   )
 }
