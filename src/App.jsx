@@ -10,6 +10,7 @@ function App() {
   return (
     <>
     <h1>the react frontend is here</h1>
+    <p>this is add from the another tushar account</p>
     </>
   )
 }
